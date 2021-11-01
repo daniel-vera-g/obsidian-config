@@ -4,7 +4,7 @@
 
 ## Usage
 
-Copy the `.obsidian` to your vault and adapt configs as needed and have fun.
+Copy the `.obsidian` to your vault, adapt configs as needed and have fun.
 
 ## Features
 
