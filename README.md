@@ -4,7 +4,8 @@
 
 ## Usage
 
-Copy the `.obsidian` to your vault and adapt configs as needed and have fun.
+- Copy the `.obsidian` to your vault and adapt configs as needed and have fun.
+- If you want to use vim, you can also copy my `./.obsidian.vimrc`
 
 ## Features
 
