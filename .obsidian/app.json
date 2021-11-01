@@ -1,0 +1,17 @@
+{
+  "vimMode": true,
+  "spellcheck": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "useTab": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "communityPluginSortOrder": "download",
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "attachments",
+  "communityThemeSortOrder": "download",
+  "readableLineLength": true
+}
