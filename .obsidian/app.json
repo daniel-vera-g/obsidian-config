@@ -13,5 +13,7 @@
   "defaultViewMode": "source",
   "attachmentFolderPath": "attachments",
   "communityThemeSortOrder": "download",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
