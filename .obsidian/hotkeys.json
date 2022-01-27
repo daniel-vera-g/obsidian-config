@@ -109,14 +109,30 @@
   ],
   "file-explorer:new-file-in-new-pane": [],
   "file-explorer:new-file": [],
-  "graph:open": [],
-  "editor:insert-link": [],
   "editor:open-search-replace": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
     }
   ]
 }
