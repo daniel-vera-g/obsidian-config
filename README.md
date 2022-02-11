@@ -12,8 +12,8 @@
 1. Vim mode and config
 2. Mind map and table editor support
 3. Custom keybindings and config
-4. And muuch more
+4. And much more
 
 ## Licence
 
-You can use the config. For the code in the `./obsidian/plugins/` directory check the LICENCE of the Plugin directly. 
+You can use the config. For the code in the `./obsidian/plugins/` directory check the LICENCE of the Plugin directly.
