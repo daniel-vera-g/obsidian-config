@@ -65,8 +65,7 @@
   "editor:focus-left": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl"
       ],
       "key": "H"
     }
@@ -83,19 +82,9 @@
   "editor:focus-right": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl"
       ],
       "key": "L"
-    }
-  ],
-  "editor:focus": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
     }
   ],
   "editor:toggle-fold": [
@@ -134,5 +123,24 @@
       ],
       "key": "`"
     }
-  ]
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:focus": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": []
 }

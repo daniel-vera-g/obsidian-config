@@ -1,10 +1,10 @@
 {
   "vimMode": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
-  "useTab": true,
+  "useTab": false,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
@@ -15,5 +15,11 @@
   "communityThemeSortOrder": "download",
   "readableLineLength": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
