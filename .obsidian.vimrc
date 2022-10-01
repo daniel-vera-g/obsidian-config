@@ -11,6 +11,9 @@ imap jk <Esc>
 " Quickly remove search highlights
 nmap <F9> :nohl
 
+" Fast yank
+nmap Y y$
+
 " Have j and k navigate visual lines rather than logical ones
 " NOTE: Conflicts with relative line numbers plugin
 " nmap j gj
