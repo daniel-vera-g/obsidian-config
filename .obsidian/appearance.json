@@ -2,5 +2,9 @@
   "baseFontSize": 22,
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "showViewHeader": true,
+  "nativeMenus": true
 }
