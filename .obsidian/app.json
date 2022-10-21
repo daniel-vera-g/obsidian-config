@@ -22,5 +22,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": false
 }

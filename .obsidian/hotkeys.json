@@ -74,6 +74,7 @@
     {
       "modifiers": [
         "Alt",
+        "Mod",
         "Shift"
       ],
       "key": "Enter"
@@ -142,5 +143,15 @@
       "key": "D"
     }
   ],
-  "table-editor-obsidian:table-control-bar": []
+  "table-editor-obsidian:table-control-bar": [],
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-split": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ]
 }
