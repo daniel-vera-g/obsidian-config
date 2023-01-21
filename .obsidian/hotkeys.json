@@ -1,13 +1,4 @@
 {
-  "workspace:close": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "W"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [
@@ -26,58 +17,12 @@
       "key": "I"
     }
   ],
-  "editor:delete-paragraph": [],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    }
-  ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
   "editor:focus-left": [
     {
       "modifiers": [
         "Ctrl"
       ],
       "key": "H"
-    }
-  ],
-  "editor:open-link-in-new-leaf": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod",
-        "Shift"
-      ],
-      "key": "Enter"
     }
   ],
   "editor:focus-right": [
@@ -88,41 +33,17 @@
       "key": "L"
     }
   ],
-  "editor:toggle-fold": [
+  "table-editor-obsidian:table-control-bar": [],
+  "obsidian-citation-plugin:update-bib-data": [],
+  "obsidian-citation-plugin:insert-citation": [],
+  "obsidian-citation-plugin:open-literature-note": [],
+  "obsidian-citation-plugin:insert-markdown-citation": [
     {
       "modifiers": [
-        "Alt",
+        "Ctrl",
         "Shift"
       ],
-      "key": "F"
-    }
-  ],
-  "file-explorer:new-file-in-new-pane": [],
-  "file-explorer:new-file": [],
-  "editor:open-search-replace": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
-  "graph:open-local": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "G"
-    }
-  ],
-  "obsidian-footnotes:insert-footnote": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "`"
+      "key": "O"
     }
   ],
   "file-explorer:open": [
@@ -143,27 +64,40 @@
       "key": "D"
     }
   ],
-  "table-editor-obsidian:table-control-bar": [],
-  "editor:open-link-in-new-window": [],
-  "editor:open-link-in-new-split": [
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "insert-template": [
     {
       "modifiers": [
         "Alt",
         "Shift"
       ],
-      "key": "Enter"
+      "key": "T"
     }
   ],
-  "obsidian-citation-plugin:update-bib-data": [],
-  "obsidian-citation-plugin:insert-citation": [],
-  "obsidian-citation-plugin:open-literature-note": [],
-  "obsidian-citation-plugin:insert-markdown-citation": [
+  "editor:toggle-fold": [
     {
       "modifiers": [
-        "Ctrl",
+        "Alt",
         "Shift"
       ],
-      "key": "O"
+      "key": "F"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }
