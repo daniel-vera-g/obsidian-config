@@ -8,5 +8,6 @@
   "dual-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-plugin-toc",
-  "dataview"
+  "dataview",
+  "obsidian-plantuml"
 ]

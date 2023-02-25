@@ -99,5 +99,21 @@
       ],
       "key": "B"
     }
+  ],
+  "editor:open-link-in-new-split": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }
