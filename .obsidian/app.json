@@ -17,6 +17,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
@@ -24,5 +25,6 @@
   },
   "promptDelete": false,
   "useMarkdownLinks": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "focusNewTab": false,
 }
