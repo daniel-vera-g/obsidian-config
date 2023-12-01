@@ -17,12 +17,14 @@
   "legacyEditor": false,
   "livePreview": true,
   "pdfExportSettings": {
-    "pageSize": "A3",
+    "includeName": false,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },
   "promptDelete": false,
   "useMarkdownLinks": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "focusNewTab": false,
 }
