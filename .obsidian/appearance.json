@@ -1,10 +1,11 @@
 {
-  "baseFontSize": 22,
+  "baseFontSize": 17,
   "theme": "obsidian",
   "translucency": false,
   "cssTheme": "Things",
   "accentColor": "",
   "interfaceFontFamily": "",
-  "showViewHeader": true,
-  "nativeMenus": true
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "showRibbon": true
 }
